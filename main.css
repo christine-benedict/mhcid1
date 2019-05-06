@@ -1,3 +1,19 @@
+h1 {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+h3 {
+	padding-top: 1rem;
+}
+
+.centered {
+	text-align: center;
+}
+
 .thin-font {
 	font-family: 'PT Sans', sans-serif;
 }
@@ -6,6 +22,26 @@
 	font-family: 'Shadows Into Light', cursive;
 }
 
-.bold-font{
+.bold-font {
 	font-family: 'Squada One', cursive;
+}
+
+.caption {
+	font-size: 0.75rem;
+}
+
+.background-1 {
+	background-color: #638478;
+	color: #fff;
+	padding: .5rem;
+}
+
+.background-2 {
+	background-color: #0d5e40;
+	color: #fff;
+	padding: .5rem;
+}
+
+.padding {
+	padding: 1rem;
 }
